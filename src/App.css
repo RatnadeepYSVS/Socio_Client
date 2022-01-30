@@ -1,0 +1,19 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.addMarg {
+    margin-top: 50px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.link {
+    color: blue;
+}
+
+.pract {
+    padding: 10px 100px;
+}
